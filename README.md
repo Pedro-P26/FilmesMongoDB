@@ -5,7 +5,7 @@ This project is a web application that allows users to search, view, and comment
 ## 📁 Project Structure
 
 ```text
-movie-catalog/
+FilmesMongoDB/
 ├── public/
 │   ├── index.html         
 │   ├── style.css          
@@ -37,7 +37,7 @@ movie-catalog/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/movie-catalog.git
+   https://github.com/Pedro-P26/FilmesMongoDB.git
    cd movie-catalog
 2. **Install dependencies:**
    ```bash
